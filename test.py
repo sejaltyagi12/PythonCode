@@ -1,1 +1,1 @@
-print("Hello Wittians!!!")
+print"Hello Wittians!!!")
